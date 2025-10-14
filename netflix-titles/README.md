@@ -1,5 +1,5 @@
 # Netflix Titles - Case Study
- [Source](https://www.kaggle.com/datasets/zubairamuti/netflix-movies-and-tv-shows-dataset)
+Case study of the titles on Netflix platform from 1990 until 2020. [Data Source](https://www.kaggle.com/datasets/zubairamuti/netflix-movies-and-tv-shows-dataset)
 
 ## Key Insights
 
