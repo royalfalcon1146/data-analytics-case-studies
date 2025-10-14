@@ -6,3 +6,4 @@ This is a collection of data analytics projects I did in my free time using Pyth
 ## Projects
 | Name | Description |
 |-|-|
+| [Netflix Titles](https://github.com/royalfalcon1146/data-analytics-case-studies/tree/main/netflix-titles) | Data analyzed from the titles in Netflix from 1990 until 2020|
