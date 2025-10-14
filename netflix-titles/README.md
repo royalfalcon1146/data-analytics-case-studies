@@ -9,5 +9,5 @@
 ### For TV shows, they tend to have 3 or less seasons over the years.
 ![TV Shows Over Time by Seasons](https://github.com/royalfalcon1146/data-analytics-case-studies/blob/main/netflix-titles/outputs/TV%20Shows%20Over%20Time%20by%20Seasons.png)
 
-### Meanwhile for the ratings of the titles on Netflix, they tend to have TV-MA (mature / 17+) titles more than any other titles
+### Meanwhile for the ratings of the titles on Netflix, they tend to have TV-MA (mature / 17+) titles more than any other titles on the platform.
 ![Titles Over Time by Rating](https://github.com/royalfalcon1146/data-analytics-case-studies/blob/main/netflix-titles/outputs/Titles%20Over%20Time%20by%20Rating.png)
