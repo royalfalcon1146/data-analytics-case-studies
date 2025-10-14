@@ -3,7 +3,7 @@
 
 ## Key Insights
 
-### Over the years, movies with a duration of approximately 60 mins tend to be present more than movies with other durations on Netflix.
+### Over the years, movies with a duration of approximately 60 mins tend to be present more than movies with other durations on the platform.
 ![Moves Over Time by Duration](https://github.com/royalfalcon1146/data-analytics-case-studies/blob/main/netflix-titles/outputs/Movies%20Over%20Time%20by%20Duration.png)
 
 ### For TV shows, they tend to have 3 or less seasons over the years.
