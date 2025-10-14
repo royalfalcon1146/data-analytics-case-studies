@@ -1,6 +1,7 @@
 # Data Analytics Case Studies
 This is a collection of data analytics projects I did in my free time using Python and its libraries: Pandas, Matplotlib, Seaborn
 
+## My Contact Info
 - [LinkedIn](https://www.linkedin.com/in/albraa-alsakor-90b218212/)
 - [WhatsApp](https://wa.me/+905312399155)
 
